@@ -74,4 +74,29 @@ This project is one small step in my journey of becoming a better developer.
 
 ---
 
+## ▶️ How to Run the Project
+
+Follow these simple steps to run this project on your computer.
+
+**Step 1:** Make sure Python is installed on your system.
+
+**Step 2:** Download or clone this repository.
+
+**Step 3:** Open the project folder in VS Code or any Python editor.
+
+**Step 4:** Open the terminal and run:
+
+```bash
+python Food_Ordering_System.py
+```
+
+**Step 5:** Follow the instructions displayed on the screen and explore the food ordering system.
+
+---
+
+## 📌 Project Status
+
+This project is part of my Python programming learning journey. More improvements and features may be added in future updates.
+
+
 ⭐ Thank you for visiting my project!
